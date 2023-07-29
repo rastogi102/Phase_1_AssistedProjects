@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\bin\Debug\Sec-6_1.13_WorkinWithFiles.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\bin\Debug\Sec-6_1.13_WorkinWithFiles.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\bin\Debug\Sec-6_1.13_WorkinWithFiles.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\obj\Debug\Sec-6_1.13_WorkinWithFiles.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\obj\Debug\Sec-6_1.13_WorkinWithFiles.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\obj\Debug\Sec-6_1.13_WorkinWithFiles.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\obj\Debug\Sec-6_1.13_WorkinWithFiles.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.13_WorkinWithFiles\Sec-6_1.13_WorkinWithFiles\obj\Debug\Sec-6_1.13_WorkinWithFiles.pdb

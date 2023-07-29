@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\bin\Debug\Sec-10_1.7_Classes.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\bin\Debug\Sec-10_1.7_Classes.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\bin\Debug\Sec-10_1.7_Classes.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\obj\Debug\Sec-10_1.7_Classes.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\obj\Debug\Sec-10_1.7_Classes.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\obj\Debug\Sec-10_1.7_Classes.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\obj\Debug\Sec-10_1.7_Classes.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.7_Classes\Sec-10_1.7_Classes\obj\Debug\Sec-10_1.7_Classes.pdb

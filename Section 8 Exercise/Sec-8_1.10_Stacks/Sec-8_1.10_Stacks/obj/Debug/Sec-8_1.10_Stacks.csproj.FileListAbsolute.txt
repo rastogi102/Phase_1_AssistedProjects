@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\bin\Debug\Sec-8_1.10_Stacks.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\bin\Debug\Sec-8_1.10_Stacks.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\bin\Debug\Sec-8_1.10_Stacks.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\obj\Debug\Sec-8_1.10_Stacks.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\obj\Debug\Sec-8_1.10_Stacks.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\obj\Debug\Sec-8_1.10_Stacks.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\obj\Debug\Sec-8_1.10_Stacks.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.10_Stacks\Sec-8_1.10_Stacks\obj\Debug\Sec-8_1.10_Stacks.pdb

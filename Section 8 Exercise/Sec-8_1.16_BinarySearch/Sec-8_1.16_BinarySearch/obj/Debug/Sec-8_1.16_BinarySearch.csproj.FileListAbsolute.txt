@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\bin\Debug\Sec-8_1.16_BinarySearch.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\bin\Debug\Sec-8_1.16_BinarySearch.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\bin\Debug\Sec-8_1.16_BinarySearch.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\obj\Debug\Sec-8_1.16_BinarySearch.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\obj\Debug\Sec-8_1.16_BinarySearch.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\obj\Debug\Sec-8_1.16_BinarySearch.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\obj\Debug\Sec-8_1.16_BinarySearch.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.16_BinarySearch\Sec-8_1.16_BinarySearch\obj\Debug\Sec-8_1.16_BinarySearch.pdb

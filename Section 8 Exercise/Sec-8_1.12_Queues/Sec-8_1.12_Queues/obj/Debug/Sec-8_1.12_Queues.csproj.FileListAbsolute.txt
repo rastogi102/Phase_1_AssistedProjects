@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\bin\Debug\Sec-8_1.12_Queues.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\bin\Debug\Sec-8_1.12_Queues.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\bin\Debug\Sec-8_1.12_Queues.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\obj\Debug\Sec-8_1.12_Queues.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\obj\Debug\Sec-8_1.12_Queues.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\obj\Debug\Sec-8_1.12_Queues.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\obj\Debug\Sec-8_1.12_Queues.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.12_Queues\Sec-8_1.12_Queues\obj\Debug\Sec-8_1.12_Queues.pdb

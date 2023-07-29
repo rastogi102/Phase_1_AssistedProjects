@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\bin\Debug\Sec-10_1.13_Interfaces.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\bin\Debug\Sec-10_1.13_Interfaces.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\bin\Debug\Sec-10_1.13_Interfaces.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\obj\Debug\Sec-10_1.13_Interfaces.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\obj\Debug\Sec-10_1.13_Interfaces.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\obj\Debug\Sec-10_1.13_Interfaces.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\obj\Debug\Sec-10_1.13_Interfaces.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.13_Interfaces\Sec-10_1.13_Interfaces\obj\Debug\Sec-10_1.13_Interfaces.pdb

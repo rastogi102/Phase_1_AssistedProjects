@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\bin\Debug\Sec-8_1.19_BubbleSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\bin\Debug\Sec-8_1.19_BubbleSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\bin\Debug\Sec-8_1.19_BubbleSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\obj\Debug\Sec-8_1.19_BubbleSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\obj\Debug\Sec-8_1.19_BubbleSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\obj\Debug\Sec-8_1.19_BubbleSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\obj\Debug\Sec-8_1.19_BubbleSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.19_BubbleSort\Sec-8_1.19_BubbleSort\obj\Debug\Sec-8_1.19_BubbleSort.pdb

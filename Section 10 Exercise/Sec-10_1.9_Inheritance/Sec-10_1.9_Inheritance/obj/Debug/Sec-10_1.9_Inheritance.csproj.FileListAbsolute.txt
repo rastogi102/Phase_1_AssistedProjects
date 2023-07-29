@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\bin\Debug\Sec-10_1.9_Inheritance.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\bin\Debug\Sec-10_1.9_Inheritance.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\bin\Debug\Sec-10_1.9_Inheritance.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\obj\Debug\Sec-10_1.9_Inheritance.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\obj\Debug\Sec-10_1.9_Inheritance.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\obj\Debug\Sec-10_1.9_Inheritance.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\obj\Debug\Sec-10_1.9_Inheritance.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.9_Inheritance\Sec-10_1.9_Inheritance\obj\Debug\Sec-10_1.9_Inheritance.pdb

@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\bin\Debug\Sec-8_1.25_Recursion.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\bin\Debug\Sec-8_1.25_Recursion.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\bin\Debug\Sec-8_1.25_Recursion.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\obj\Debug\Sec-8_1.25_Recursion.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\obj\Debug\Sec-8_1.25_Recursion.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\obj\Debug\Sec-8_1.25_Recursion.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\obj\Debug\Sec-8_1.25_Recursion.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.25_Recursion\Sec-8_1.25_Recursion\obj\Debug\Sec-8_1.25_Recursion.pdb

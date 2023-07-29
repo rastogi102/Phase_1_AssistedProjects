@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\obj\Debug\Sec-6_1.4_PrimitiveTypesandExpression.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\obj\Debug\Sec-6_1.4_PrimitiveTypesandExpression.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\obj\Debug\Sec-6_1.4_PrimitiveTypesandExpression.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\bin\Debug\Sec-6_1.4_PrimitiveTypesandExpression.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\bin\Debug\Sec-6_1.4_PrimitiveTypesandExpression.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\bin\Debug\Sec-6_1.4_PrimitiveTypesandExpression.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\obj\Debug\Sec-6_1.4_PrimitiveTypesandExpression.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.4_PrimitiveTypesandExpression\Sec-6_1.4_PrimitiveTypesandExpression\obj\Debug\Sec-6_1.4_PrimitiveTypesandExpression.pdb

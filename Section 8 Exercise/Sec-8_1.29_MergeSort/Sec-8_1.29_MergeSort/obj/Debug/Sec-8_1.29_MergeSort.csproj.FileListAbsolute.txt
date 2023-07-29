@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\bin\Debug\Sec-8_1.29_MergeSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\bin\Debug\Sec-8_1.29_MergeSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\bin\Debug\Sec-8_1.29_MergeSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\obj\Debug\Sec-8_1.29_MergeSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\obj\Debug\Sec-8_1.29_MergeSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\obj\Debug\Sec-8_1.29_MergeSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\obj\Debug\Sec-8_1.29_MergeSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.29_MergeSort\Sec-8_1.29_MergeSort\obj\Debug\Sec-8_1.29_MergeSort.pdb

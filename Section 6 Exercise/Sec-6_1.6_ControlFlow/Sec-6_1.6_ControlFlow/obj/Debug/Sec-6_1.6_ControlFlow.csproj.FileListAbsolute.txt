@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\bin\Debug\Sec-6_1.6_ControlFlow.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\bin\Debug\Sec-6_1.6_ControlFlow.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\bin\Debug\Sec-6_1.6_ControlFlow.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\obj\Debug\Sec-6_1.6_ControlFlow.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\obj\Debug\Sec-6_1.6_ControlFlow.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\obj\Debug\Sec-6_1.6_ControlFlow.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\obj\Debug\Sec-6_1.6_ControlFlow.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.6_ControlFlow\Sec-6_1.6_ControlFlow\obj\Debug\Sec-6_1.6_ControlFlow.pdb

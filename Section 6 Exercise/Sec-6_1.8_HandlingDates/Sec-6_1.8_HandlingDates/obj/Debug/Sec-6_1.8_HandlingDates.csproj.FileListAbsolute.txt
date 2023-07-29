@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\bin\Debug\Sec-6_1.8_HandlingDates.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\bin\Debug\Sec-6_1.8_HandlingDates.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\bin\Debug\Sec-6_1.8_HandlingDates.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\obj\Debug\Sec-6_1.8_HandlingDates.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\obj\Debug\Sec-6_1.8_HandlingDates.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\obj\Debug\Sec-6_1.8_HandlingDates.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\obj\Debug\Sec-6_1.8_HandlingDates.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_HandlingDates\Sec-6_1.8_HandlingDates\obj\Debug\Sec-6_1.8_HandlingDates.pdb

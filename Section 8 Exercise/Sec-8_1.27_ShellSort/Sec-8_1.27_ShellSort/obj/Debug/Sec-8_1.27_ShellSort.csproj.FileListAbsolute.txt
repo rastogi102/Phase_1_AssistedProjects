@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\bin\Debug\Sec-8_1.27_ShellSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\bin\Debug\Sec-8_1.27_ShellSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\bin\Debug\Sec-8_1.27_ShellSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\obj\Debug\Sec-8_1.27_ShellSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\obj\Debug\Sec-8_1.27_ShellSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\obj\Debug\Sec-8_1.27_ShellSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\obj\Debug\Sec-8_1.27_ShellSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.27_ShellSort\Sec-8_1.27_ShellSort\obj\Debug\Sec-8_1.27_ShellSort.pdb

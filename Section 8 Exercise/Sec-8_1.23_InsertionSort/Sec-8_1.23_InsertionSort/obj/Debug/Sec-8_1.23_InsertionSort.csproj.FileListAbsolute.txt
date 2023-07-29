@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\bin\Debug\Sec-8_1.23_InsertionSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\bin\Debug\Sec-8_1.23_InsertionSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\bin\Debug\Sec-8_1.23_InsertionSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\obj\Debug\Sec-8_1.23_InsertionSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\obj\Debug\Sec-8_1.23_InsertionSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\obj\Debug\Sec-8_1.23_InsertionSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\obj\Debug\Sec-8_1.23_InsertionSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.23_InsertionSort\Sec-8_1.23_InsertionSort\obj\Debug\Sec-8_1.23_InsertionSort.pdb

@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\obj\Debug\Sec-10_1.11_Polymorphism.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\obj\Debug\Sec-10_1.11_Polymorphism.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\obj\Debug\Sec-10_1.11_Polymorphism.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\bin\Debug\Sec-10_1.11_Polymorphism.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\bin\Debug\Sec-10_1.11_Polymorphism.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\bin\Debug\Sec-10_1.11_Polymorphism.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\obj\Debug\Sec-10_1.11_Polymorphism.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.11_Polymorphism\Sec-10_1.11_Polymorphism\obj\Debug\Sec-10_1.11_Polymorphism.pdb

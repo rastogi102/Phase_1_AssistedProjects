@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\bin\Debug\Sec-6_1.8_WorkingWithText.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\bin\Debug\Sec-6_1.8_WorkingWithText.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\bin\Debug\Sec-6_1.8_WorkingWithText.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\obj\Debug\Sec-6_1.8_WorkingWithText.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\obj\Debug\Sec-6_1.8_WorkingWithText.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\obj\Debug\Sec-6_1.8_WorkingWithText.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\obj\Debug\Sec-6_1.8_WorkingWithText.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 6 Exercise\Sec-6_1.8_WorkingWithText\Sec-6_1.8_WorkingWithText\obj\Debug\Sec-6_1.8_WorkingWithText.pdb

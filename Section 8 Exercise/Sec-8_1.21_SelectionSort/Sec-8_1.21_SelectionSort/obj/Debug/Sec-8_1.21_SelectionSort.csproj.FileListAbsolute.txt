@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\bin\Debug\Sec-8_1.21_SelectionSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\bin\Debug\Sec-8_1.21_SelectionSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\bin\Debug\Sec-8_1.21_SelectionSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\obj\Debug\Sec-8_1.21_SelectionSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\obj\Debug\Sec-8_1.21_SelectionSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\obj\Debug\Sec-8_1.21_SelectionSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\obj\Debug\Sec-8_1.21_SelectionSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.21_SelectionSort\Sec-8_1.21_SelectionSort\obj\Debug\Sec-8_1.21_SelectionSort.pdb

@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\bin\Debug\Sec-10_1.3_Structs.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\bin\Debug\Sec-10_1.3_Structs.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\bin\Debug\Sec-10_1.3_Structs.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\obj\Debug\Sec-10_1.3_Structs.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\obj\Debug\Sec-10_1.3_Structs.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\obj\Debug\Sec-10_1.3_Structs.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\obj\Debug\Sec-10_1.3_Structs.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 10 Exercise\Sec-10_1.3_Structs\Sec-10_1.3_Structs\obj\Debug\Sec-10_1.3_Structs.pdb

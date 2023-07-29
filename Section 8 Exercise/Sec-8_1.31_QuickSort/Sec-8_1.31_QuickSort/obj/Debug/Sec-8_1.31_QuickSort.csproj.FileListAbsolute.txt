@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\bin\Debug\Sec-8_1.31_QuickSort.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\bin\Debug\Sec-8_1.31_QuickSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\bin\Debug\Sec-8_1.31_QuickSort.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\obj\Debug\Sec-8_1.31_QuickSort.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\obj\Debug\Sec-8_1.31_QuickSort.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\obj\Debug\Sec-8_1.31_QuickSort.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\obj\Debug\Sec-8_1.31_QuickSort.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.31_QuickSort\Sec-8_1.31_QuickSort\obj\Debug\Sec-8_1.31_QuickSort.pdb

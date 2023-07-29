@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\bin\Debug\Sec-8_1.7_SinglyLinkedList.exe.config
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\bin\Debug\Sec-8_1.7_SinglyLinkedList.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\bin\Debug\Sec-8_1.7_SinglyLinkedList.pdb
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\obj\Debug\Sec-8_1.7_SinglyLinkedList.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\obj\Debug\Sec-8_1.7_SinglyLinkedList.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\obj\Debug\Sec-8_1.7_SinglyLinkedList.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\obj\Debug\Sec-8_1.7_SinglyLinkedList.exe
+F:\Training Stuff\Dot netTraining\Assisted Pactice Projects\Section 8 Exercise\Sec-8_1.7_SinglyLinkedList\Sec-8_1.7_SinglyLinkedList\obj\Debug\Sec-8_1.7_SinglyLinkedList.pdb
